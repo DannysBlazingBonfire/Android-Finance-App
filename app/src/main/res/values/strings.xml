@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AssA</string>
+    <string name="firstName_TextField">first name</string>
+    <string name="surname_TextField">surname</string>
+    <string name="submitButton_text">Submit</string>
+    <string name="filterButton_text">Filter</string>
+    <string name="incomeButton_Text">Income</string>
+    <string name="expenseButton_Text">Expense</string>
+    <string name="BoxTitle_ShowingAll">All Finances</string>
+    <string name="BoxTitle_ShowingFiltered">showing finances for filtered dates</string>
+    <string name="buttonText_ViewTotal_text">View Total</string>
+    <string name="buttonText_FilterFinances_text">Filter Finances</string>
+    <string name="switch_expense_text">Expense?</string>
+    <string name="financeForm_TextField_Title">title</string>
+    <string name="financeForm_TextField_amount">amount</string>
+    <string name="financialForm_ButtonText_Add">Add</string>
+    <string name="totalfinanceView_titleText">NET +/- total</string>
+    <string name="filterFormView_title">Date format (YYYY-MM-DD)</string>
+    <string name="filterFormView_startDate_text">start date</string>
+    <string name="filterFormView_endDate_text">end date</string>
+    <string name="filterFormView_filter_text">Filter</string>
+    <string name="financeView_titleText_text">\'s Finances</string>
+    <string name="financialFormView_title_text">Add finances for:</string>
+</resources>

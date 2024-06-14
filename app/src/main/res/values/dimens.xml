@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="universal_padding_TextFields">10dp</dimen>
+    <dimen name="TitleTextSize">40sp</dimen>
+    <dimen name="OutsideBoxPadding">20dp</dimen>
+    <dimen name="financeBox_title_size">20sp</dimen>
+    <dimen name="RoundedCorner_dimension">15dp</dimen>
+    <dimen name="financeBoxPadding_dimen">15dp</dimen>
+    <dimen name="financeItemRowPadding">3dp</dimen>
+    <dimen name="financeItem_fontSize">25sp</dimen>
+    <dimen name="financeItem_ItemPadding">5dp</dimen>
+    <dimen name="FinanceForm_title_fontsize">20sp</dimen>
+    <dimen name="RoundBox_size">300dp</dimen>
+</resources>
